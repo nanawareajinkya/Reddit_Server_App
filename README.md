@@ -12,7 +12,8 @@
 :point_right: start the API server:
     - `cd api-server`
     - `npm install`
-    - `node server`
+    - `node server`.
+    
 :point_right: run project:
     - `npm install`
     - `npm start`
