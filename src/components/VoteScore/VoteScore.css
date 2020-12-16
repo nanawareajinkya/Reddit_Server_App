@@ -1,0 +1,19 @@
+.VoteScore-container {
+  width: 40px;
+  margin-right: 20px;
+  display: flex;
+  flex-direction: column;
+}
+
+.VoteScore-icon {
+  color: #2566a7;
+  cursor: pointer;
+}
+
+.VoteScore-text {
+  text-align: center;
+  font-size: 20px;
+  font-weight: bold;
+  padding: 4px 0;
+  opacity: 0.8;
+}
