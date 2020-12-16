@@ -1,0 +1,4 @@
+{
+  "API_SERVER": "http://localhost:3001",
+  "AuthorizationToken": "any-auth-token"
+}
