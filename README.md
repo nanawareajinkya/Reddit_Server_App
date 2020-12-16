@@ -13,7 +13,7 @@ The application requires the following software to be installed locally.
     - `cd api-server`
     - `npm install`
     - `node server`
-* Install and start the front end
+* run project:
     - `npm install`
     - `npm start`
     
