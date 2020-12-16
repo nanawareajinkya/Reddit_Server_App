@@ -1,0 +1,45 @@
+.CommentCard-container {
+  padding: 10px;
+  box-sizing: border-box;
+  margin: 0 0 20px 0;
+  background-color: #d3dfea;
+  display: flex;
+}
+
+.CommentCard-container a {
+  color: #336699;
+  text-decoration: none;
+  letter-spacing: 1px;
+}
+
+.CommentCard-container a:hover {
+  text-decoration: underline;
+}
+
+.CommentCard-description {
+  font-size: 16px;
+  padding: 10px 0 8px 0;
+}
+
+.CommentCard-detail {
+  font-size: 14px;
+  padding-bottom: 2px;
+}
+
+.CommentCard-button {
+  border: 1px solid #2566a7;
+  background-color: transparent;
+  color: #336699;
+  font-size: 14px;
+  border-radius: 2px;
+  margin: 8px 10px 0 0;
+}
+
+.CommentCard-button:hover {
+  background-color: #2566a7;
+  color: white;
+}
+
+.CommentCard-editForm-container {
+  width: 50%;
+}
